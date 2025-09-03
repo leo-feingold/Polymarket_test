@@ -1,4 +1,4 @@
 polymarket_venv/
 *.txt
 *.csv
-.DS_Store/
+.DS_Store
